@@ -4,7 +4,7 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  basePath: '/nexjt-github-test',
+  basePath: '/',
 }
 
 module.exports = nextConfig
